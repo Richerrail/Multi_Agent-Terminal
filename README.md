@@ -2,6 +2,9 @@
 
 Terminal interactif en Rust pour gérer des agents IA, chatter via une interface TUI moderne (Chat + Éditeur de code), et envoyer des messages via Discord/Telegram.
 
+![Menu principal](assets/menu.png)
+![Workspace](assets/workspace.png)
+
 ## Prérequis
 
 - Rust 1.80+ : https://rustup.rs
