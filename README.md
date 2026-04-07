@@ -10,7 +10,7 @@ Terminal interactif en Rust pour gérer des agents IA, chatter via une interface
 ## Installation & Lancement
 
 ```bash
-git clone <https://github.com/Richerrail/Multi_Agent-Terminal>
+git clone https://github.com/Richerrail/Multi_Agent-Terminal
 cd multi_agent_terminal
 cargo run
 ```
